@@ -147,6 +147,8 @@ The machine learning model successfully analyzes and predicts student burnout pa
 
 The implementation of Explainable AI improves transparency and interpretability of the prediction results.
 
+<img width="790" height="900" alt="image" src="https://github.com/user-attachments/assets/f84b5cdf-0031-4026-b1f6-8beb23f81c52" />
+
 ---
 
 ## Future Improvements
